@@ -1,0 +1,5 @@
+chromadb
+flask
+flask_cors
+sentence-transformers
+pdfplumber
